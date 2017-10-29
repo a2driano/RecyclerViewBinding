@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/RecyclerViewBinding.iml" filepath="$PROJECT_DIR$/RecyclerViewBinding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/RecyclerViewBinding.iml" filepath="$PROJECT_DIR$/.idea/RecyclerViewBinding.iml" />
+      <module fileurl="file://C:\AndroidProject\RecyclerViewBinding\RecyclerViewBinding\RecyclerViewBinding.iml" filepath="C:\AndroidProject\RecyclerViewBinding\RecyclerViewBinding\RecyclerViewBinding.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
