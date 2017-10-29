@@ -8,14 +8,19 @@
         <variable
             name="user"
             type="ua.recycler.binding.recyclerviewbinding.User"/>
+
+        <variable
+            name="click"
+            type="ua.recycler.binding.recyclerviewbinding.UserClickHandler"/>
     </data>
 
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="64dp"
         android:layout_margin="8dp"
-        android:padding="8dp"
-        android:background="@color/colorGrey">
+        android:background="@color/colorGrey"
+        android:onClick="@{click.clickToUser}"
+        android:padding="8dp">
 
         <ImageView
             android:id="@+id/imageView"
